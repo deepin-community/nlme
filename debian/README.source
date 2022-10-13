@@ -1,0 +1,250 @@
+
+Explanation for binary files inside source package according to
+  http://lists.debian.org/debian-devel/2013/09/msg00332.html
+
+Files: data/Alfalfa.rda
+Documentation: man/Alfalfa.Rd
+  ->  These data are described in Snedecor and Cochran (1980) as
+      an example of a split-plot design.
+      Source: Pinheiro and Bates (2000)
+
+Files: data/Assay.rda
+Documentation: man/Assay.Rd
+  ->  These data, courtesy of Rich Wolfe and David Lansky from Searle,
+      Inc., come from a bioassay run on a 96-well cell culture plate.
+      Source: Pinheiro and Bates (2000)
+
+Files: data/BodyWeight.rda
+Documentation: man/BodyWeight.Rd
+  ->  Hand and Crowder (1996) describe data on the body weights of rats
+      measured over 64 days.  These data also appear in Table 2.4 of
+      Crowder and Hand (1990).
+      Source: Pinheiro and Bates (2000)
+
+Files: data/Cefamandole.rda
+Documentation: man/Cefamandole.Rd
+  ->  Davidian and Giltinan (1995, 1.1, p. 2) describe data
+      obtained during a pilot study to investigate the pharmacokinetics of
+      the drug cefamandole.
+      Source: Pinheiro and Bates (2000)
+
+Files: data/Dialyzer.rda
+Documentation: man/Dialyzer.Rd
+  ->  Vonesh and Carter (1992) describe data measured on high-flux
+      hemodialyzers to assess their \emph{in vivo} ultrafiltration
+      characteristics.  
+      Source: Pinheiro and Bates (2000)
+
+Files: data/Earthquake.rda
+Documentation: man/Earthquake.Rd
+  ->  Measurements recorded at available seismometer locations for 23
+      large earthquakes in western North America between 1940 and 1980.
+      They were originally given in Joyner and Boore (1981); are
+      mentioned in Brillinger (1987); and are analyzed in Davidian
+      and Giltinan (1995).
+      Source: Pinheiro and Bates (2000)
+
+Files: data/Fatigue.rda
+Documentation: man/Fatigue.Rd
+  ->  These data are given in Lu and Meeker (1993) where they state
+      ``We obtained the data in Table 1 visually from figure 4.5.2 on page 242
+      of Bogdanoff and Kozin (1985).''
+      Source: Pinheiro and Bates (2000)
+
+Files: data/Gasoline.rda
+Documentation: man/Gasoline.Rd
+  ->  Prater (1955) provides data on crude oil properties and
+      gasoline yields.  Atkinson (1985)
+      uses these data to illustrate the use of diagnostics in multiple
+      regression analysis. 
+      Source: Pinheiro and Bates (2000)
+
+Files: data/Glucose.rda
+Documentation: man/Glucose.Rd
+  ->  Source: Hand, D. and Crowder, M. (1996)
+
+Files: data/Glucose2.rda
+Documentation: man/Glucose2.Rd
+  ->  Hand and Crowder (Table A.14, pp. 180-181, 1996) describe data on
+      the blood glucose levels measured at 14 time points over 5 hours for 7
+      volunteers who took alcohol at time 0.
+      Source: Pinheiro and Bates (2000)
+
+Files: data/Gun.rda
+Documentation: man/Gun.Rd
+  ->  Hicks (p.180, 1993) reports data from an experiment on
+      methods for firing naval guns. 
+      Source: Pinheiro and Bates (2000)
+
+Files: data/IGF.rda
+Documentation: man/IGF.Rd
+  ->  Davidian and Giltinan (1995) describe data obtained during quality
+      control radioimmunoassays for ten different lots of radioactive
+      tracer used to calibrate the Insulin-like Growth Factor (IGF-I)
+      protein concentration measurements.
+      Source: Pinheiro and Bates (2000)
+
+Files: data/Machines.rda
+Documentation: man/Machines.Rd
+  ->  Data on an experiment to compare three brands of machines used in an
+      industrial process are presented in Milliken and Johnson (p. 285,
+      1992). 
+      Source: Pinheiro and Bates (2000)
+
+Files: data/MathAchSchool.rda
+Documentation: man/MathAchSchool.Rd
+  ->  These variables give the school-level demographic data to accompany
+      the \code{MathAchieve} data.
+
+Files: data/MathAchieve.rda
+Documentation: man/MathAchieve.Rd
+  ->  Each row in this data frame contains the data for one student.
+
+Files: data/Meat.rda
+Documentation: man/Meat.Rd
+  ->  Cochran and Cox (section 11.51, 1957) describe data from an
+      experiment conducted at Iowa State College (Paul, 1943) to
+      compare the effects of length of cold storage on the tenderness of
+      beef roasts.
+
+Files: data/Milk.rda
+Documentation: man/Milk.Rd
+  ->  Diggle, Liang, and Zeger (1994) describe data on the protein content
+      of cows' milk in the weeks following calving.
+
+Files: data/Muscle.rda
+Documentation: man/Muscle.Rd
+  ->  Baumann and Waldvogel (1963) describe data on the shortening of heart
+      muscle strips dipped in a \eqn{\mbox{CaCl}{}_2}{CaCl_2} solution.
+
+Files: data/Nitrendipene.rda
+Documentation: man/Nitrendipene.Rd
+  ->  Bates, D. M. and Watts, D. G. (1988)
+
+Files: data/Oats.rda
+Documentation: man/Oats.Rd
+  ->  These data have been introduced by Yates (1935) as an example of a
+      split-plot design.
+      Source: Pinheiro and Bates (2000)
+
+Files: data/Orthodont.rda
+Documentation: man/Orthodont.Rd
+  ->  Investigators at the University of North Carolina Dental School
+      followed the growth of 27 children (16 males, 11 females) from age 8
+      until age 14.
+
+Files: data/Ovary.rda
+Documentation: man/Ovary.Rd
+  ->  Pierson and Ginther (1987) report on a study of the number of large
+      ovarian follicles detected in different mares at several times in
+      their estrus cycles.
+      Source: Pinheiro and Bates (2000)
+
+Files: data/Oxboys.rda
+Documentation: man/Oxboys.Rd
+  ->  These data are described in Goldstein (1987) as data on the
+      height of a selection of boys from Oxford, England versus a
+      standardized age.
+      Source: Pinheiro and Bates (2000)
+
+Files: data/Oxide.rda
+Documentation: man/Oxide.Rd
+  ->  These data are described in Littell et al. (1996, p. 155) as coming
+      ``from a passive data collection study in the semiconductor industry
+      where the objective is to estimate the variance components to
+      determine the assignable causes of the observed variability.''
+      Source: Pinheiro and Bates (2000)
+
+Files: data/PBG.rda
+Documentation: man/PBG.Rd
+  ->  Data on an experiment to examine the effect of a antagonist MDL 72222
+      on the change in blood pressure experienced with increasing dosage of
+      phenylbiguanide are described in Ludbrook (1994) and analyzed
+      in Venables and Ripley (2002, section 10.3).
+      Source: Pinheiro and Bates (2000)
+
+Files: data/Phenobarb.rda
+Documentation: man/Phenobarb.Rd
+  ->  Data from a pharmacokinetics study of phenobarbital in neonatal infants.
+      Source: Pinheiro and Bates (2000)
+
+Files: data/Pixel.rda
+Documentation: man/Pixel.Rd
+  ->  Source: Pinheiro and Bates (2000)
+
+Files: data/Quinidine.rda
+Documentation: man/Quinidine.Rd
+  ->  Verme et al. (1992) analyze routine clinical data on
+      patients receiving the drug quinidine as a treatment for cardiac
+      arrythmia (atrial fibrillation of ventricular arrythmias).
+      Source: Pinheiro and Bates (2000)
+
+Files: data/Rail.rda
+Documentation: man/Rail.Rd
+  ->  Devore (2000, Example 10.10, p. 427) cites data from an article in
+      \emph{Materials Evaluation} on ``a study of travel time for a certain
+      type of wave that results from longitudinal stress of rails used for
+      railroad track.''
+      Source: Pinheiro and Bates (2000)
+
+Files: data/RatPupWeight.rda
+Documentation: man/RatPupWeight.Rd
+  ->  Source: Pinheiro and Bates (2000)
+
+Files: data/Relaxin.rda
+Documentation: man/Relaxin.Rd
+  ->  Source: Pinheiro and Bates (2000)
+
+Files: data/Remifentanil.rda
+Documentation: man/Remifentanil.Rd
+  ->  Source: Pinheiro and Bates (2000)
+
+Files: data/Soybean.rda
+Documentation: man/Soybean.Rd
+  ->  These data are described in
+      Davidian and Giltinan (1995, 1.1.3, p.7) as ``Data from an
+      experiment to compare growth patterns of two genotypes of soybeans:
+      Plant Introduction \#416937 (P), an experimental strain, and Forrest
+      (F), a commercial variety.''
+      Source: Pinheiro and Bates (2000)
+
+Files: data/Spruce.rda
+Documentation: man/Spruce.Rd
+  ->  Diggle, Liang, and Zeger (1994, Example 1.3, page 5)
+      describe data on the growth of spruce trees that have been exposed to
+      an ozone-rich atmosphere or to a normal atmosphere.
+      Source: Pinheiro and Bates (2000)
+
+Files: data/Tetracycline1.rda
+Documentation: man/Tetracycline1.Rd
+  ->  Source: Pinheiro and Bates (2000)
+
+Files: data/Tetracycline2.rda
+Documentation: man/Tetracycline2.Rd
+  ->  Source: Pinheiro and Bates (2000)
+
+Files: data/Wafer.rda
+Documentation: man/Wafer.Rd
+  ->  Source: Pinheiro and Bates (2000)
+
+Files: data/Wheat.rda
+Documentation: man/Wheat.Rd
+  ->  Source: Pinheiro and Bates (2000)
+
+Files: data/Wheat2.rda
+Documentation: man/Wheat2.Rd
+  ->  Source: Pinheiro and Bates (2000)
+
+Files: data/bdf.rda
+Documentation: man/bdf.Rd
+  ->  Source: Snijders, Tom and Bosker, Roel (1999)
+
+Files: data/ergoStool.rda
+Documentation: man/ergoStool.Rd
+  ->  Devore (2000) cites data from an article in \emph{Ergometrics} (1993,
+      pp. 519-535) on ``The Effects of a Pneumatic Stool and a One-Legged
+      Stool on Lower Limb Joint Load and Muscular Activity.''
+      Source: Pinheiro and Bates (2000)
+
+
+ -- Dirk Eddelbuettel <edd@debian.org>, Mon, 12 Mar 2018 08:01:27 -0500
