@@ -1,3 +1,68 @@
+nlme (3.1.163-1) unstable; urgency=medium
+
+  * New upstream release
+
+  * debian/control: Set (Build-)Depends: to current R version
+  * debian/control: Switch to virtual debhelper-compat (= 13)
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 11 Aug 2023 11:21:11 -0500
+
+nlme (3.1.162-1) unstable; urgency=medium
+
+  * New upstream release
+
+  * debian/control: Set Standards-Version: to current version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 31 Jan 2023 12:22:05 -0600
+
+nlme (3.1.161-1) unstable; urgency=medium
+
+  * New upstream release
+
+  * debian/control: Set (Build-)Depends: to current R version
+  * debian/control: Switch to virtual debhelper-compat (= 12)
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 15 Dec 2022 07:30:29 -0600
+
+nlme (3.1.160-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon, 10 Oct 2022 11:14:13 -0500
+
+nlme (3.1.159-1) unstable; urgency=medium
+
+  * New upstream release
+  
+  * debian/control: Set Build-Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 09 Aug 2022 07:21:28 -0500
+
+nlme (3.1.158-1) unstable; urgency=medium
+
+  * New upstream release
+  
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 15 Jun 2022 10:08:38 -0500
+
+nlme (3.1.157-1) unstable; urgency=medium
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 26 Mar 2022 08:14:17 -0500
+
+nlme (3.1.155-1) unstable; urgency=medium
+
+  * New upstream release
+  
+  * debian/control: Set Build-Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 13 Jan 2022 08:23:08 -0600
+
 nlme (3.1.153-1) unstable; urgency=medium
 
   * New upstream release

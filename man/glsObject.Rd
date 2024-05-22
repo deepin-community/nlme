@@ -26,7 +26,7 @@
     produced the object.}
   \item{coefficients}{a vector with the estimated linear model
     coefficients.} 
-  \item{contrasts}{a list with the contrasts used to represent factors
+  \item{contrasts}{a list of the contrast matrices used to represent factors
     in the model formula. This information is important for making
     predictions from a new data frame in which not all levels of the
     original factors are observed. If no factors are used in the model,
@@ -35,8 +35,8 @@
     including the components \code{N} - the number of observations in
     the data and \code{p} - the number of coefficients in the linear
     model.}
-  \item{fitted}{a vector with the fitted values..}
-  \item{glsStruct}{an object inheriting from class \code{glsStruct},
+  \item{fitted}{a vector with the fitted values.}
+  \item{modelStruct}{an object inheriting from class \code{glsStruct},
    representing a list of linear model components, such as
    \code{corStruct} and \code{varFunc} objects.}
   \item{groups}{a vector with the correlation structure grouping factor,
@@ -54,6 +54,6 @@
 
 \author{José Pinheiro and Douglas Bates \email{bates@stat.wisc.edu}}
 
-\seealso{\code{\link{gls}}, \code{glsStruct}}
+\seealso{\code{\link{gls}}, \code{\link{glsStruct}}}
 
 \keyword{models}
